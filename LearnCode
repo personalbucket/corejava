@@ -4,9 +4,8 @@ Wap to print Hello World in java.
 
 class Firstcode{
     public static void main() {
-        System.out.println("Hey, I am Rajnish i am learning GITHUB huh!");
-         System.out.println("Here is change one");
-          System.out.println("Hey, I am Rajnish i am learning GITHUB huh and also so many other things!");
+        System.out.println("Hey, I am Rajnish i am learning GITHUB huh this is version 1.0 !");
+       
     }
 
 

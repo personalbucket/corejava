@@ -1,0 +1,11 @@
+/*
+Wap to print Hello World in java.
+*/
+
+class Firstcode{
+    public static void main() {
+        System.out.println("Hey, I am Rajnish i am learning GITHUB huh!");
+    }
+
+
+// End of code lets commit it.
